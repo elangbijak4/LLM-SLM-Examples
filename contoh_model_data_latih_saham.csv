@@ -1,0 +1,11 @@
+text,label,date,stock
+"Apple's stock surges on strong earnings report",1,2022-02-10,AAPL
+"Amazon's sales growth slows, stock falls",0,2022-02-15,AMZN
+"Tesla's electric car sales rise, stock jumps",1,2022-02-20,TSLA
+"Google's ad revenue grows, stock rises",1,2022-02-25,GOOGL
+"Facebook's user growth slows, stock falls",0,2022-03-01,FB
+"Microsoft's cloud business booms, stock surges",1,2022-03-05,MSFT
+"Johnson & Johnson's vaccine sales rise, stock jumps",1,2022-03-10,JNJ
+"Cisco's revenue growth slows, stock falls",0,2022-03-15,CSCO
+"Intel's chip sales rise, stock rises",1,2022-03-20,INTC
+"Visa's payment volume grows, stock surges",1,2022-03-25,V
